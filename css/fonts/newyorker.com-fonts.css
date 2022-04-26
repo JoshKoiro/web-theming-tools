@@ -1,0 +1,159 @@
+@font-face {
+    font-family: Adobe Caslon;
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Adobe Caslon-Italic.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Adobe Caslon-Italic.woff") format("woff");
+}
+
+@font-face {
+    font-family: Adobe Caslon;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Adobe Caslon-Regular.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Adobe Caslon-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: Graphik;
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Graphik-Medium.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Graphik-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: Graphik;
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Graphik-MediumItalic.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Graphik-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+    font-family: Graphik;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Graphik-Regular-Web.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Graphik-Regular-Web.woff") format("woff");
+}
+
+@font-face {
+    font-family: Graphik;
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Graphik-RegularItalic-Web.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Graphik-RegularItalic-Web.woff") format("woff");
+}
+
+@font-face {
+    font-family: Graphik Web;
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Graphik Web-Medium.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Graphik Web-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: Irvin Heading;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Irvin Heading-Regular.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Irvin Heading-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: IrvinText;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/IrvinText-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: IrvinHeadingWeb;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/IrvinHeadingWeb-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: Irvin Text;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Irvin Text-Regular.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Irvin Text-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: Neutra Face;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Neutra Face-Regular.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Neutra Face-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: Neutra Face;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/Neutra Face-SemiBold.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/Neutra Face-SemiBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: NeutrafaceNewYorker;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/NeutrafaceNewYorker-SemiBold.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/NeutrafaceNewYorker-SemiBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: TNYAdobeCaslonPro;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-Bold.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: TNYAdobeCaslonPro;
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-BoldItalic.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+    font-family: TNYAdobeCaslonPro;
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-Italic.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-Italic.woff") format("woff");
+}
+
+@font-face {
+    font-family: TNYAdobeCaslonPro;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-Regular.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: TNYAdobeCaslonPro;
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-SemiBold.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-SemiBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: TNYAdobeCaslonPro;
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+    src: url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-SemiBoldItalic.woff2") format("woff2"), url("https://www.newyorker.com/verso/static/assets/fonts/TNYAdobeCaslonPro-SemiBoldItalic.woff") format("woff");
+}
