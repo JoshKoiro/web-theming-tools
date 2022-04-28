@@ -1,4 +1,8 @@
 /*THIS IS TO LOAD MEDIUM.COM'S FONT FACES*/
+/* Installation:
+<link rel="stylesheet" href="https://joshkoiro.github.io/web-theming-tools/css/fonts/medium.com-font.css">
+@import url('https://joshkoiro.github.io/web-theming-tools/css/fonts/medium.com-font.css');
+*/
 /* latin */
 @font-face {
     font-family: 'charter';
