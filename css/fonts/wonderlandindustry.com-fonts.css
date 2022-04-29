@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Teodor;
+    font-display: swap;
+    src: local("Teodor Light"),local("Teodor-Light"),url(https://www.wonderlandindustry.com/_nuxt/fonts/Teodor-Light.6c01645.woff2) format("woff2"),url(https://www.wonderlandindustry.com/_nuxt/fonts/Teodor-Light.bf68227.woff) format("woff");
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Dazzed;
+    font-display: swap;
+    src: local("Dazzed Regular"),local("Dazzed-Regular"),url(https://www.wonderlandindustry.com/_nuxt/fonts/Dazzed-Regular.0897e57.woff2) format("woff2"),url(https://www.wonderlandindustry.com/_nuxt/fonts/Dazzed-Regular.8ef5111.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Dazzed;
+    font-display: swap;
+    src: local("Dazzed SemiBold"),local("Dazzed-SemiBold"),url(https://www.wonderlandindustry.com/_nuxt/fonts/Dazzed-SemiBold.97a9bb7.woff2) format("woff2"),url(https://www.wonderlandindustry.com/_nuxt/fonts/Dazzed-SemiBold.f6810ac.woff) format("woff");
+    font-weight: 600;
+    font-style: normal
+}

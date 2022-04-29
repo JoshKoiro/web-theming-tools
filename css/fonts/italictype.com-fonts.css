@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Portrait;
+    src: url("https://www.italictype.com/static/fonts/Portrait-Light-Web.3cac0911ded1.woff2") format("woff2"),url("https://www.italictype.com/static/fonts/Portrait-Light-Web.8405f81dcb5e.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal
+}
+
+@font-face {
+    font-family: Lemur;
+    src: url("https://www.italictype.com/static/fonts/Lemur-Regular.003e13df57da.woff2") format("woff2"),url("https://www.italictype.com/static/fonts/Lemur-Regular.10bcea823053.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal
+}
